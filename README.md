@@ -28,3 +28,4 @@ Features
 
 Install json-Server:  json-server --watch db.json --port 4000
 react app: npx create-react-app folder_name
+<img width="1366" height="575" alt="image" src="https://github.com/user-attachments/assets/804d71a6-8e4e-4e7f-a16c-b98dda9f61d2" />
